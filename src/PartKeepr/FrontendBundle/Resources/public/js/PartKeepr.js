@@ -15,7 +15,7 @@ Ext.application({
     {
         Ext.setGlyphFontFamily('FontAwesome');
         Ext.get("loader-wrapper").hide();
-        Ext.setLocale('en_US');
+        Ext.setLocale('zh_CN');
 
         this.createLayout();
 
